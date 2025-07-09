@@ -36,3 +36,10 @@ Confira alguns dos meus projetos que demonstram minhas habilidades e interesses:
     * Uma aplicação Java/Python que demonstra herança, polimorfismo, abstração e o gerenciamento de diferentes tipos de funcionários.
     * **Tecnologias:** `Java`, `POO`
     * [Link para o repositório do projeto](https://github.com/Gabriela-S2/PayrollSystemJava)
+ 
+---
+
+## ✨ Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-ribeiro-silva-)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/gabriela_ribeiro_silva_/)
