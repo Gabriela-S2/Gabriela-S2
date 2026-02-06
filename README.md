@@ -22,6 +22,11 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 
 Confira alguns dos meus projetos que demonstram minhas habilidades e interesses:
 
+* **Cadê o Ônibus? — Monitoramento e Mobilidade Urbana**
+   * Aplicação full-stack que consome dados GTFS para simular frotas em tempo real e planejar rotas inteligentes entre Luziânia e o DF.
+   * **Tecnologias:** `Python`, `Flask`, `Leaflet.js`, `SQLite`, `Pandas`.
+   * [Link para o repositório do projeto](https://github.com/Gabriela-S2/cade_o_onibus)
+
 * **Carrinho de Compras E-commerce**
     * Implementação de um carrinho de compras simples para um e-commerce em Java, aplicando herança, polimorfismo, encapsulamento para diferentes tipos de produtos.
     * **Tecnologias:** `Java`, `POO`
