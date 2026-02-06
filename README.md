@@ -12,9 +12,9 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 
 | Categoria | Tecnologias / Ferramentas |
 | :-------- | :------------------------- |
-| **Linguagens** | `Java` `Python`|
-| **Frameworks/Libs** | `Ren'py`|
-| **Ferramentas/Cloud** | `IntelliJ IDEA`|
+| **Linguagens** | `Java` `Python` `Java Script`|
+| **Frameworks/Libs** | `Flask`|
+| **DevOps/Tools** | `IntelliJ IDEA` `VS Code` `Git`|
 
 ---
 
