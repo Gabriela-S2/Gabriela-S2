@@ -1,9 +1,11 @@
+
 # Olá! Eu sou a Gabriela 👋
-
+## 👩‍💻 Sobre Mim
+Olá! Seja bem-vindo(a) ao meu cantinho no GitHub! 🌟  
+Sou desenvolvedora **Back-end** com paixão por aprender novas tecnologias  
+e construir projetos com **propósito real**.
+---
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+a+Gabriela!+👋;Desenvolvedora+Back-end;Apaixonada+por+IA+e+Agentes;Aprendendo+sempre+🚀" alt="Typing SVG" />
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriela-ribeiro-silva-)
@@ -12,13 +14,7 @@
 
 </div>
 
----
 
-## 👩‍💻 Sobre Mim
-
-Olá! Seja bem-vindo(a) ao meu cantinho no GitHub! 🌟  
-Sou desenvolvedora **Back-end** com paixão por aprender novas tecnologias  
-e construir projetos com **propósito real**.
 
 
 ---
